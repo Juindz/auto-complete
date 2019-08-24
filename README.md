@@ -9,6 +9,7 @@ Given an input phrase,an N-gram language model is used predict the next word/phr
 **Built with**
 * Docker
 * MapReduce
+* SQL
 
 **Acknowledgements**
 
